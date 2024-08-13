@@ -3,7 +3,9 @@ body {
     display: flex;
     justify-content: center;
     justify-items: center;
-    background-color: #3C3C4D;
+    /* background-color: #3C3C4D; */
+    background-image: url("calculator-backimg.jpg");
+    background-size: cover;
 
 
 }
